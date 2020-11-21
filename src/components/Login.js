@@ -1,9 +1,7 @@
 import React from 'react';
-import {useState, useEffect} from 'react';
 import {useForm} from 'react-hook-form';
 import styled from 'styled-components';
 import { Button } from 'reactstrap'; 
-import axios from 'axios';
 
 
 export default function Login () {
