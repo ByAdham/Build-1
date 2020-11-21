@@ -2,7 +2,7 @@
 import React, { useEffect, useState } from 'react';
 import styled from 'styled-components';
 import axios from 'axios';
-import {CardBody, Card, CardTitle, CardText, Button, CardImg} from "reactstrap";
+import {CardBody, Card, CardTitle, CardText, CardImg} from "reactstrap";
 
 
 import Review from './Review'
